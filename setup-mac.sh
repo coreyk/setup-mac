@@ -67,6 +67,7 @@ brew cask install vlc
 brew cask install avast-security
 brew cask install virtualbox
 brew cask install vagrant
+brew cask install little-snitch
 
 # fun
 brew cask install openemu-experimental
