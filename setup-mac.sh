@@ -81,4 +81,5 @@ brew cask install boxer
 
 # install manually
 # sonos
+# uBlock Origin Safari https://github.com/el1t/uBlock-Safari
 
