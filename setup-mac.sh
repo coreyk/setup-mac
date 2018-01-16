@@ -7,7 +7,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew update
 
 brew install git
-brew install gpg2
 
 brew install ansible
 brew install bash
