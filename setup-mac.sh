@@ -59,7 +59,8 @@ brew cask install viscosity
 brew cask install tower
 brew cask install p4merge
 
-brew cask install sequel-pro
+# brew cask install sequel-pro
+brew cask install homebrew/cask-versions/sequel-pro-nightly
 brew cask install sqlectron
 brew cask install robo-3t
 brew cask install docker
