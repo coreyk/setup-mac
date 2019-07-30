@@ -76,6 +76,11 @@ brew cask install spectacle
 brew cask install vlc
 brew cask install keka-beta
 
+brew tap homebrew/cask-fonts
+brew cask install font-hack-nerd-font
+brew cask install font-firacode-nerd-font
+brew cask install font-sourcecodepro-nerd-font
+
 # password required
 brew cask install avast-security
 brew cask install virtualbox
