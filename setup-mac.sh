@@ -75,6 +75,9 @@ brew cask install gyazo
 brew cask install spectacle
 brew cask install vlc
 brew cask install keka-beta
+brew cask install vanilla
+brew cask install choosy
+brew cask install menumeters
 
 brew tap homebrew/cask-fonts
 brew cask install font-hack-nerd-font
@@ -83,9 +86,10 @@ brew cask install font-sourcecodepro-nerd-font
 
 # password required
 brew cask install avast-security
-brew cask install virtualbox
-brew cask install vagrant
+# brew cask install virtualbox
+# brew cask install vagrant
 brew cask install little-snitch
+brew cask install reikey
 
 # ftp on High Sierra +
 brew install pure-ftpd
